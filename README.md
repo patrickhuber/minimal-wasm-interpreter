@@ -1,6 +1,6 @@
-# Toy Wasm Interpreter
+# Minimal Wasm Interpreter
 
-The toy wasm interpeter is a special purpose, minimal wasm interpeter that only runs the add.wasm wasm function. It is meant for education purposes only.
+The minimal wasm interpeter is a special purpose interpeter that only runs the add.wasm wasm function. It is meant for education purposes only.
 
 to test it out, run
 
